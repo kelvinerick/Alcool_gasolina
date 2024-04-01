@@ -36,7 +36,6 @@ class MainActivity : AppCompatActivity() {
 
             }
         }
-//coment
         btCalc.setOnClickListener {
             val precoAlcoolText = etPrecoAlcool.text.toString()
             val precoGasolinaText = etPrecoGasolina.text.toString()
